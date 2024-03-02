@@ -1,0 +1,39 @@
+header {
+    align-items: center;
+    background-color: #4B97BB;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: #FF9966;
+    color: white;
+}
+
+.purple-background {
+    background-color: purple;
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+
+.main-image {
+    font-family: 'Courier New', Courier, monospace max-width;
+
+}
+
+#green {
+    background-color: green;
+}
+
+#about-text {
+    width: 500px;
+    ;
+}
